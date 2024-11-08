@@ -12,8 +12,6 @@
  <p>I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001-dev" /> </p>
-
 -  I’m a **Full Stack Developer**
 -  Working at  **CloudRedux**
 -  Visit **CloudRedux** here>https://cloudredux.com/
