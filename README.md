@@ -40,16 +40,3 @@
  </div>
 
 
-## My GitHub Stats 📊
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anki2001-dev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ankita" /></p>
-
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anki2001-dev&theme=algolia" alt="anki2001-dev" /></p>
-
- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-## :trophy: Git profile Trophies
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=anki2001-dev&layout=compact&theme=algolia" alt="anki2001-dev" /> </p>
-
