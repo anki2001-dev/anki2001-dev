@@ -16,10 +16,10 @@
 
 -  I’m a **Full Stack Developer**
 -  Working at  **CloudRedux**
--  Visit **CloudRedux** here> [here][(https://anki2001ta.github.io/)](https://cloudredux.com/)
+-  Visit **CloudRedux** here> [here][(https://anki2001ta.github.io/)]
 -  Visit **My Portfolio** [here](https://anki2001ta.github.io/)
 
--  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms, Next.js, Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD , MySQL ,SQL   SQLITE , AWS LAMBDA ,NOSQL ,Python , FastAPI**
+-  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms, Next.js, Angular, Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD , MySQL ,SQL   SQLITE , AWS LAMBDA ,NOSQL ,Python , FastAPI**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
