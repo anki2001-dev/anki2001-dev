@@ -14,19 +14,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001ta" /> </p>
 
--  I’m currently learning **MERN stack**
+-  I’m a **Full Stack Developer**
+-  Working at  **CloudRedux**
+-  Visit **CloudRedux** here> [here][(https://anki2001ta.github.io/)](https://cloudredux.com/)
+-  Visit **My Portfolio** [here](https://anki2001ta.github.io/)
 
--  I’m looking to collaborate on **Projects**
-
--  All of my projects are available at [here](https://anki2001ta.github.io/)
-
--  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms,Next.js,Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD**
+-  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms, Next.js, Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD , MySQL ,SQL   SQLITE , AWS LAMBDA ,NOSQL ,Python , FastAPI**
 
 <h2 align="left">Connect with me: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"></h2>
 <p align="left">
 
 <a href="https://www.linkedin.com/in/ankita-deb-5209b723a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BgzPNzDwVR9KHpe7Ar4gJxQ%3D%3D"><img align="center" src="https://img.icons8.com/color/344/linkedin-circled--v1.png" alt="ankita" height="32" width="32" /></a>
-<a href = 'https://github.com/anki2001ta'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-glyphs/344/github.png"/></a> 
+<a href = '[https://github.com/anki2001ta](https://github.com/anki2001-dev)'> <img width = '32px' align= 'center' src="https://img.icons8.com/ios-glyphs/344/github.png"/></a> 
 
 </p>
 
