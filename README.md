@@ -1,5 +1,5 @@
 <h1 align="center" color="blue">WELCOME TO ANKITA's HUB</h1>
-  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=9130c5&style=flat" alt="Ankita Deb" /> </p>
+  <p align="center"> <img src="https://komarev.com/ghpvc/?username=anki2001-dev&label=Profile%20views&color=9130c5&style=flat" alt="Ankita Deb" /> </p>
 <div align="center">
 <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
 </div>
@@ -12,7 +12,7 @@
  <p>I am passionate about Full Stack Web Development. I have hands-on experience in designing, developing, and maintaining projects. I like to learn more in this Domain and Specialize in Fronted and BackEnd frameworks.</p>
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001ta" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anki2001ta&label=Profile%20views&color=0e75b6&style=flat" alt="anki2001-dev" /> </p>
 
 -  I’m a **Full Stack Developer**
 -  Working at  **CloudRedux**
@@ -44,12 +44,12 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anki2001ta&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ankita" /></p>
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=anki2001-dev&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ankita" /></p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anki2001ta&theme=algolia" alt="anki2001ta" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=anki2001-dev&theme=algolia" alt="anki2001-dev" /></p>
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=anki2001ta&layout=compact&theme=algolia" alt="anki2001ta" /> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"></a><img src="https://github-profile-trophy.vercel.app/?username=anki2001-dev&layout=compact&theme=algolia" alt="anki2001-dev" /> </p>
 
