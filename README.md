@@ -16,7 +16,7 @@
 
 -  I’m a **Full Stack Developer**
 -  Working at  **CloudRedux**
--  Visit **CloudRedux** here> [here][(https://anki2001ta.github.io/)]
+-  Visit **CloudRedux** here> [here]https://cloudredux.com/
 -  Visit **My Portfolio** [here](https://anki2001ta.github.io/)
 
 -  Ask me about **HTML, CSS, Javascript, Reactjs, Algorithms, Next.js, Angular, Redux.js, ReduxToolkit, Firebase, Node.js, Express.js, Mongoose, MongoDB, Microservices, TailwindCss, MaterialUI, ChakraUI, AntD , MySQL ,SQL   SQLITE , AWS LAMBDA ,NOSQL ,Python , FastAPI**
